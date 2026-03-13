@@ -12,8 +12,6 @@ Additionally, the bonus part introduces a simple linked list API.
 
 All functions are compiled into a static library libft.a, which can be linked against other programs.
 
-<br>
-
 ## Instructions
 
 ### Build
@@ -29,8 +27,6 @@ Bonus version.
 ```bash
 make bonus
 ```
-
-<br>
 
 ### Run
 
